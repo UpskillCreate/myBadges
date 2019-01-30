@@ -1,9 +1,9 @@
 # myBadges
-Extract a list of badges from the Acclaim badges page based on user name
+Extract a list of badges from the <a href="https://www.youracclaim.com/" target="_blank">Acclaim badges page</a> based on user name
 
 Try the code out for yourself here: https://repl.it/@UpskillCreate/myBadges
 
-Sample output for sharing on your resume, CV, or Social Media Profiles (user name: robert-mapstead):
+Sample output for sharing on your resume, CV, or Social Media Profiles (user name: <a href="https://www.youracclaim.com/user/robert-mapstead" target="_blank">robert-mapstead</a>):
 
 my Badges:<br>
 Get started with Kubernetes and IBM Cloud Container Service<br>
