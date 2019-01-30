@@ -3,7 +3,7 @@ Extract a list of badges from the <a href="https://www.youracclaim.com/" target=
 
 Try the code out for yourself here: https://repl.it/@UpskillCreate/myBadges
 
-Sample output for sharing on your resume, CV, or Social Media Profiles (user name: <a href="https://www.youracclaim.com/user/robert-mapstead" target="_blank">robert-mapstead</a>):
+Sample TEXT output for sharing on your resume, CV, or Social Media Profiles (user name: <a href="https://www.youracclaim.com/user/robert-mapstead" target="_blank">robert-mapstead</a>):
 
 my Badges:<br>
 Get started with Kubernetes and IBM Cloud Container Service<br>
