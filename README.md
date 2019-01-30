@@ -5,28 +5,28 @@ Try the code out for yourself here: https://repl.it/@UpskillCreate/myBadges
 
 Sample output for sharing on your resume, CV, or Social Media Profiles:
 
-my Badges:
-Get started with Kubernetes and IBM Cloud Container Service
-Docker Essentials: A Developer Introduction
-IBM Cloud Garage Method Explorer
-Disruptive HR in a Cognitive Era - Essentials
-Earning Advocacy Practitioner
-IBM Recognized Teacher/ Educator
-Cognitive Practitioner
-Data Science for Business - Level 1
-IBM Digital Learning Transformation
-IBM Mentor
-Python for Data Science
-Hadoop Foundations - Level 1
-Watson Conversation Service Foundations
-Big Data Foundations - Level 1
-Data Science Foundations - Level 1
-IBM Digital Learning Developer
-Watson Discovery Service Foundations
-Node-RED: basics to bots
-IBM Blockchain Essentials
-IBM Cloud Essentials
-Enterprise Design Thinking Practitioner
+my Badges:<br>
+Get started with Kubernetes and IBM Cloud Container Service<br>
+Docker Essentials: A Developer Introduction<br>
+IBM Cloud Garage Method Explorer<br>
+Disruptive HR in a Cognitive Era - Essentials<br>
+Earning Advocacy Practitioner<br>
+IBM Recognized Teacher/ Educator<br>
+Cognitive Practitioner<br>
+Data Science for Business - Level 1<br>
+IBM Digital Learning Transformation<br>
+IBM Mentor<br>
+Python for Data Science<br>
+Hadoop Foundations - Level 1<br>
+Watson Conversation Service Foundations<br>
+Big Data Foundations - Level 1<br>
+Data Science Foundations - Level 1<br>
+IBM Digital Learning Developer<br>
+Watson Discovery Service Foundations<br>
+Node-RED: basics to bots<br>
+IBM Blockchain Essentials<br>
+IBM Cloud Essentials<br>
+Enterprise Design Thinking Practitioner<br>
 
 Total Badges Earned: 21
 
